@@ -1,0 +1,84 @@
+{
+   "items": [
+      {
+         "sys": { "id": "1" },
+         "fields": {
+            "title": "Straight Built-In Flex Jeans For Men",
+            "price": "18.99",
+            "image": { "fields": { "file": { "url": "images/product-1.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "2" },
+         "fields": {
+            "title": "Original Taper Non-Stretch Jeans for Men",
+            "price": "54.99",
+            "image": { "fields": { "file": { "url": "images/product-2.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "3" },
+         "fields": {
+            "title": "Straight Five-Pocket Built-In Tough Twill Pants",
+            "price": "34.99",
+            "image": { "fields": { "file": { "url": "images/product-3.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "4" },
+         "fields": {
+            "title": "Skiny 360 Stretch Performance Black Jeans for Men",
+            "price": "49.99",
+            "image": { "fields": { "file": { "url": "images/product-4.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "5" },
+         "fields": {
+            "title": "Relaxed Slim Taper Built-In Flex Never Fade Black Jeans for Men",
+            "price": "24.97",
+            "image": { "fields": { "file": { "url": "images/product-5.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "6" },
+         "fields": {
+            "title": "Regular-Fit Patterned Flannel Shirt for Men",
+            "price": "36.99",
+            "image": { "fields": { "file": { "url": "images/product-6.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "7" },
+         "fields": {
+            "title": "Soft-Brushed Plaid Flannel Shirt-Jacket for Men",
+            "price": "50.97",
+            "image": { "fields": { "file": { "url": "images/product-7.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "8" },
+         "fields": {
+            "title": "Soft-Washed Long-Sleeve Henley T-Shirt for Men",
+            "price": "15.99",
+            "image": { "fields": { "file": { "url": "images/product-8.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "9" },
+         "fields": {
+            "title": "Oversized Gender-Neutral Windowpane-Plaid Jean Shirt for Adults",
+            "price": "22.97",
+            "image": { "fields": { "file": { "url": "images/product-9.webp" } } }
+         }
+      },
+      {
+         "sys": { "id": "10" },
+         "fields": {
+            "title": "Thermal-Knit Long-Sleeve T-Shirt for Men",
+            "price": "19.99",
+            "image": { "fields": { "file": { "url": "images/product-10.webp" } } }
+         }
+      }
+   ]
+}
